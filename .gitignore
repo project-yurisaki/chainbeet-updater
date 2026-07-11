@@ -1,0 +1,11 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+
+# Default directory for downloaded update assets
+assets/
