@@ -1,5 +1,8 @@
 # ChainBeeT Updater
 
+![Yurisaki SubProject](https://img.shields.io/badge/SubProject-Yurisaki-A5D8FF?style=for-the-badge)
+![Language Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
+
 Downloads and verifies the ChainBeeT asset updates described by the remote Android manifest.
 
 ## Usage
